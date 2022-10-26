@@ -12,3 +12,4 @@ console.log('var_oneDay: ' + oneDay);
 console.log('Day of year: ' + day);
 
 // mod 2022-10-26 9:56 msk
+// mod 2022-10-26 13:43 msk
