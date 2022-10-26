@@ -10,3 +10,5 @@ console.log('var_diff: ' + diff);
 console.log('var_oneDay: ' + oneDay);
 
 console.log('Day of year: ' + day);
+
+// mod 2022-10-26 9:56 msk
